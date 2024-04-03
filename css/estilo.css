@@ -1,0 +1,178 @@
+.row .full {
+	width: 100%;
+}
+
+.bgd-br { background: #fff; }
+.bgd-pr { background: #000; }
+.bgd-lr { background: #F68121; }
+.bgd-cz1 { background: #a1a1a1; }
+.bgd-cz2 { background: #b1b1b1; }
+.bgd-cz3 { background: #c1c1c1; }
+.bgd-cz4 { background: #e1e1e1; }
+.bgd-cz5 { background: #f1f1f1; }
+.bgd-cz6 { background: #333333; }
+
+.color-br { color: #ffffff; }
+.color-az { color: #f68121; }
+.color-az2 { color: #0BA1B5; }
+.color-cz { color: #A1A1A1; }
+.hr-az { border:1px solid #f68121; }
+.hr-lr5 { border:5px solid #f68121; }
+
+.pad5x10{ padding: 5px 10px; }
+.pad8x0{ padding: 8px 0;}
+
+.mrg0 {
+	padding: 0;
+	margin: 0;
+}
+
+.font10px{ font-size: 10px;}
+.font12px{ font-size: 12px;}
+.font14px{ font-size: 14px;}
+.font15px{ font-size: 15px; line-height: 21px;}
+.font18px{ font-size: 18px;}
+.font24px{ font-size: 24px; line-height: 24px;}
+
+h1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #f68121;
+}
+
+h4{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #f68121;
+}
+
+h5{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #f68121;
+}
+
+
+.bold{ font-weight: bold;}
+.line-through { text-decoration: line-through;}
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #7b7d80;
+}
+
+
+.container-topo{
+	background: #F68121;
+	float: left;
+	width: 100%;
+}
+
+.top-menu li{
+	display: inline;
+}
+
+.top-menu li a{
+	color: #ffffff;
+	padding: 19px 20px;
+	float: left;
+	font-weight: bold;
+}
+
+.top-menu li a:hover{
+	color: #f68121;
+	background: #ffffff;
+}
+
+
+.banner{
+	margin-top: -5px;
+	width: 100%;
+	z-index: 2;
+}
+
+.banner img{
+	width: 100%;
+}
+
+.busca-codigo{
+	background: #F68121;
+	padding: 20px 20px 0 20px;
+	color: #fff;
+}
+
+.rodape{
+	border-top: 1px solid #A1A1A1;
+	background: #f9f9f9;
+}
+
+.menu-rodape{
+	list-style: none;
+}
+
+.menu-rodape a{
+	color: #F68121;
+}
+
+
+.btn-topo{
+ position: fixed;
+ bottom: 0;
+ left: 0;
+ cursor: pointer;	
+}
+
+
+#sucessoEnvio{
+	background: #698733;
+	color: #fff;
+	margin: 5px 0;
+	padding: 10px;
+	display: none;
+	text-align: center;
+	font-size: 1.8em;
+	width: 100%;
+}
+
+#status{
+	color: #000;
+	margin: 5px 0;
+	padding: 10px;
+	display: none;
+	text-align: center;
+	font-size: 1.8em;
+	width: 100%;
+}
+
+.foto-imovel{
+	margin: 3px;
+	cursor: pointer;
+	position: relative;
+	vertical-align: top;
+}
+
+
+  button.colibri, .button.colibri {
+  	font-family: 'HelveticaNeueRegular', Arial, Helvetica, sans-serif;
+    background-color: #F68121;
+    border-color: #F68121;
+    color: white; }
+    button.colibri:hover, button.colibri:focus, .button.colibri:hover, .button.colibri:focus {
+      background-color: #89440a; }
+    button.colibri:hover, button.colibri:focus, .button.colibri:hover, .button.colibri:focus {
+      color: white; }
+
+
+  button.colibri2, .button.colibri2 {
+  	font-family: 'HelveticaNeueRegular', Arial, Helvetica, sans-serif;
+    background-color: #89440a;
+    border-color: #89440a;
+    color: white; }
+    button.colibri2:hover, button.colibri2:focus, .button.colibri2:hover, .button.colibri2:focus {
+      background-color: #89440a; }
+    button.colibri2:hover, button.colibri2:focus, .button.colibri2:hover, .button.colibri2:focus {
+      color: white; }
+      
+
+
